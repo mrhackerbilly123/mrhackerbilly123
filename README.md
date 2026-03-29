@@ -53,15 +53,6 @@ mrhackerbilly123 = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://raw.githubusercontent.com/mrhackerbilly123/mrhackerbilly123/output/stats.svg" />
-<img height="180em" src="https://raw.githubusercontent.com/mrhackerbilly123/mrhackerbilly123/output/langs.svg" />
-</div>
--->
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -102,11 +93,28 @@ Open to collaboration and learning opportunities!
 
 <br/>
 
-![Security GIF](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
 
-</div>
 
----
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer&animation=twinkling" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
