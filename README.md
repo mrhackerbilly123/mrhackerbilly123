@@ -46,10 +46,10 @@ mrhackerbilly123 = {
 
 | Project | Description |
 |---|---|
-| 🔍 [Port Scanner](https://github.com/mrhackerbilly123/port-scanner) | Scan common ports and detect services |
-| 🔒 [Password Hasher](https://github.com/mrhackerbilly123/password-hasher) | Hash passwords with salt using SHA-512 |
-| 💥 [4-Digit Brute Force](https://github.com/mrhackerbilly123/4-digit-brute-force) | Simulate password cracking for learning |
-| 🌐 [IP Geolocation Reporter](https://github.com/mrhackerbilly123/ip-geolocation-reporter) | Fetch IP info and send JSON reports |
+| 🔍 [Port Scanner](https://github.com/mrhackerbilly123/Network-scanner) | Scan common ports and detect services |
+| 🔒 [Password Hasher](https://github.com/mrhackerbilly123/Hashing.py) | Hash passwords with salt using SHA-512 |
+| 💥 [4-Digit Brute Force](https://github.com/mrhackerbilly123/4-Digit-brute-force) | Simulate password cracking for learning |
+| 🌐 [IP Geolocation Reporter](https://github.com/mrhackerbilly123/Webhook) | Fetch IP info and send JSON reports |
 
 ---
 
