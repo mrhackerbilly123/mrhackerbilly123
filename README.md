@@ -22,13 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![mrhackerbilly123's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhackerbilly123&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhackerbilly123&layout=compact&theme=tokyonight&hide_title=true)
-
----
-
 ### ⚡ Fun Fact
 - I enjoy exploring cybersecurity challenges and building Python tools  
 - Currently learning ethical hacking using Kali Linux and Nmap  
