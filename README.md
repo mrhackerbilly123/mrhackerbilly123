@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**mrhackerbilly123/mrhackerbilly123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- Currently studying **Bachelor of Computer Science** at **UOA**
+- Focused on **Cybersecurity** and hands-on learning 🔐
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+- 🐍 **Python**
+- 💻 **Bash**
+- 🔎 **Cybersecurity Concepts**
+- 🛡️ **SOC Fundamentals**
+- 📜 **CompTIA Security+**
+
+---
+
+### 👯 Journey
+- Working solo
+- Building skills through practice and projects
+
+---
+
+### 💬 Ask Me About
+- Cybersecurity basics  
+- Python and Bash scripting  
+- Networking and security fundamentals  
+
+---
+
+### ⚡ Goal
+Build strong, practical skills and move into a **Cybersecurity role** 🚀
