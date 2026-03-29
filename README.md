@@ -55,7 +55,12 @@ mrhackerbilly123 = {
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrhackerbilly123&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=28a745&icon_color=28a745&text_color=c9d1d9&ring_color=28a745" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhackerbilly123&layout=compact&hide_border=true&bg_color=0d1117&title_color=28a745&text_color=c9d1d9" /> </div>
+<!-- After completing setup below, uncomment these lines and delete the setup notice above:
+<div align="center">
+<img height="180em" src="https://raw.githubusercontent.com/mrhackerbilly123/mrhackerbilly123/output/stats.svg" />
+<img height="180em" src="https://raw.githubusercontent.com/mrhackerbilly123/mrhackerbilly123/output/langs.svg" />
+</div>
+-->
 ---
 
 ## 🔥 Contribution Streak
