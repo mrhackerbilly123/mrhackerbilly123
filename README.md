@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:28a745,100:0d1117&height=200&section=header&text=mrhackerbilly123&fontSize=50&fontColor=28a745&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Cybersecurity%20%7C%20Python&descAlignY=58&descColor=28a745" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=mrhackerbilly123&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Cybersecurity%20%7C%20Python&descAlignY=58&descColor=39d353" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=28a745&center=true&vCenter=true&repeat=true&width=700&lines=whoami%20=%20mrhackerbilly123!%20%F0%9F%91%8B;CS%20Student%20%40%20UOA;Cybersecurity%20%26%20Python;pwd;%20ls;%20cd%20/home;%20sudo%20apt%20update;%20cat%20secret.txt;%20grep%20%E2%80%9Dpassword%E2%80%9D%20*.log;%20nmap%20192.168.1.1;%20ssh%20user@host" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=whoami%20=%20mrhackerbilly123!%20%F0%9F%91%8B;CS%20Student%20%40%20UOA;Cybersecurity%20%26%20Python" alt="Typing SVG" />
 </a>
 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=mrhackerbilly123&label=Profile+Views&color=28a745&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/mrhackerbilly123?label=Followers&style=for-the-badge&color=28a745&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=mrhackerbilly123&label=Profile+Views&color=00ff41&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/mrhackerbilly123?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117" />
 </div>
 
 ## 👋 About Me
