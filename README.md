@@ -22,6 +22,16 @@
 
 ---
 
+## 📊 GitHub Stats & Language Graphs
+
+<!-- Contribution Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrhackerbilly123&theme=radical&hide_border=false)
+
+<!-- GitHub Stats with line graph style -->
+
+
+---
+
 ### ⚡ Fun Fact
 - I enjoy exploring cybersecurity challenges and building Python tools  
 - Currently learning ethical hacking using Kali Linux and Nmap  
@@ -33,3 +43,9 @@
 - Open to collaboration and learning opportunities  
 
 ![Security GIF](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
+
+
+
+
+
+
