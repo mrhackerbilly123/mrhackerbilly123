@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Cyber GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 🎓 Studying Bachelor of Computer Science at UOA  
 🔐 Cybersecurity learner focused on Python, Bash, and networking  
@@ -12,8 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-Scripting-informational?logo=gnu-bash&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)  
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-007396?logo=compTIA&logoColor=white)  
-![SOC](https://img.shields.io/badge/SOC-Firebrick?logo=fortinet&logoColor=white)  
 
 ---
 
