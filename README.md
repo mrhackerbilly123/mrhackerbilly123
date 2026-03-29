@@ -34,7 +34,7 @@
 
 ### ⚡ Fun Fact
 - I enjoy exploring cybersecurity challenges and building Python tools  
-- Currently learning ethical hacking using Kali Linux and Nmap  
+- Currently learning ethical hacking through self-taught methods
 
 ---
 
