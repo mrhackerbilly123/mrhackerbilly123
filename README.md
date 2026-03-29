@@ -23,7 +23,6 @@ mrhackerbilly123 = {
     "focus":     "Cybersecurity | Python | Bash | Networking",
     "learning":  ["SOC Fundamentals", "CompTIA Security+", "Ethical Hacking"],
     "interests": ["CTF Challenges", "Python Tooling", "Linux"],
-    "motto":     "Code it. Break it. Fix it. Ship it.",
     "open_to":   "Collaboration and learning opportunities",
 }
 ```
