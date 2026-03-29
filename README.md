@@ -1,32 +1,45 @@
-## 👋 Hi there
+## Hi there 👋
 
-### 🎓 About Me
-- Currently studying **Bachelor of Science** at **UOA**
-- Focused on **Cybersecurity** and hands-on learning 🔐
+![Cyber GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
----
-
-### 🌱 What I'm Learning
-- 🐍 **Python**
-- 💻 **Bash**
-- 🔎 **Cybersecurity Concepts**
-- 🛡️ **SOC Fundamentals**
-- 📜 **CompTIA Security+**
+🎓 Studying Bachelor of Computer Science at UOA  
+🔐 Cybersecurity learner focused on Python, Bash, and networking  
+🌱 Learning SOC fundamentals and CompTIA Security+  
 
 ---
 
-### 👯 Journey
-- Working solo
-- Building skills through practice and projects
+### 🌱 Skills & Badges
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-Scripting-informational?logo=gnu-bash&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)  
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-007396?logo=compTIA&logoColor=white)  
+![SOC](https://img.shields.io/badge/SOC-Firebrick?logo=fortinet&logoColor=white)  
 
 ---
 
-### 💬 Ask Me About
-- Cybersecurity basics  
-- Python and Bash scripting  
-- Networking and security fundamentals  
+### 🚀 Projects
+- [Port Scanner](https://github.com/mrhackerbilly123/port-scanner) – Scan common ports and detect services  
+- [Password Hasher](https://github.com/mrhackerbilly123/password-hasher) – Hash passwords with salt using SHA-512  
+- [4-Digit Brute Force](https://github.com/mrhackerbilly123/4-digit-brute-force) – Simulate password cracking for learning  
+- [IP Geolocation Reporter](https://github.com/mrhackerbilly123/ip-geolocation-reporter) – Fetch IP info and send JSON reports  
 
 ---
 
-### ⚡ Goal
-Build strong, practical skills and move into a **Cybersecurity role** 🚀
+### 📊 GitHub Stats
+![mrhackerbilly123 GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhackerbilly123&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhackerbilly123&layout=compact&theme=radical)  
+
+---
+
+### ⚡ Fun Fact
+- I enjoy exploring cybersecurity challenges and building Python tools  
+- Currently learning ethical hacking using Kali Linux and Nmap  
+
+---
+
+### 📫 Contact Me
+- GitHub: [mrhackerbilly123](https://github.com/mrhackerbilly123)  
+- Open to collaboration and learning opportunities  
+
+![Security GIF](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
