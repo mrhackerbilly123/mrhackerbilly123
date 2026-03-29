@@ -55,7 +55,6 @@ mrhackerbilly123 = {
 
 ## 📊 GitHub Stats
 
-<!-- After completing setup below, uncomment these lines and delete the setup notice above:
 <div align="center">
 <img height="180em" src="https://raw.githubusercontent.com/mrhackerbilly123/mrhackerbilly123/output/stats.svg" />
 <img height="180em" src="https://raw.githubusercontent.com/mrhackerbilly123/mrhackerbilly123/output/langs.svg" />
