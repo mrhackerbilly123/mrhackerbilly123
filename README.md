@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 ### 🎓 About Me
-- Currently studying **Bachelor of Computer Science** at **UOA**
+- Currently studying **Bachelor of Science** at **UOA**
 - Focused on **Cybersecurity** and hands-on learning 🔐
 
 ---
