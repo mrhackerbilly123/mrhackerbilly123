@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=28a745&center=true&vCenter=true&repeat=true&width=650&lines=Whoami%20%3D%20mrhackerbilly123!%20%F0%9F%91%8B;CS%20Student%20%40%20UOA;Cybersecurity%20%26%20Python;Building%20tools%20%7C%20Learning%20%7C%20Experimenting" alt="Typing SVG" />
 </a>
 
+
 <img src="https://komarev.com/ghpvc/?username=mrhackerbilly123&label=Profile+Views&color=28a745&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/mrhackerbilly123?label=Followers&style=for-the-badge&color=28a745&labelColor=0d1117" />
 
