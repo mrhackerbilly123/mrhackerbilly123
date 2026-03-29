@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:28a745,100:0d1117&height=200&section=header&text=mrhackerbilly123&fontSize=50&fontColor=28a745&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Cybersecurity%20%20%7C%20Python%20&descAlignY=58&descColor=28a745" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=28a745&center=true&vCenter=true&repeat=true&width=650&height=80&padding=10&lines=Whoami%20%3D%20mrhackerbilly123!%20%F0%9F%91%8B;CS%20Student%20%40%20UOA;Cybersecurity%20%26%20Python;Building%20tools%20%7C%
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=mrhackerbilly123&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Cybersecurity%20Learner%20%7C%20Python%20Builder&descAlignY=58&descColor=39d353" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=650&lines=Hi+there!+%F0%9F%91%8B;CS+Student+%40+UOA;Cybersecurity+%26+Python+Enthusiast;Building+tools+%7C+Breaking+things+%7C+Learning" alt="Typing SVG" />
+</a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=mrhackerbilly123&label=Profile+Views&color=00ff41&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/mrhackerbilly123?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117" />
+</div>
 ## 👋 About Me
 
 ```python
