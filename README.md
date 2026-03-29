@@ -55,13 +55,7 @@ mrhackerbilly123 = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrhackerbilly123&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhackerbilly123&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-
-</div>
-
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrhackerbilly123&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=28a745&icon_color=28a745&text_color=c9d1d9&ring_color=28a745" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhackerbilly123&layout=compact&hide_border=true&bg_color=0d1117&title_color=28a745&text_color=c9d1d9" /> </div>
 ---
 
 ## 🔥 Contribution Streak
