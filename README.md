@@ -14,7 +14,7 @@
 
 ```python
 mrhackerbilly123 = {
-    "degree":    "Bachelor of Computer Science @ UOA",
+    "degree":    "Bachelor of Computer Science @ UOA", (Studying towards),
     "focus":     "Cybersecurity | Python | Bash | Networking",
     "learning":  ["SOC Fundamentals", "CompTIA Security+", "Ethical Hacking"],
     "interests": ["CTF Challenges", "Python Tooling", "Linux"],
