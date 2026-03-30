@@ -30,8 +30,6 @@ mrhackerbilly123 = {
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-Fundamentals-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-Fundamentals-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
