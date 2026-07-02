@@ -23,7 +23,7 @@ mrhackerbilly123 = {
 
 ---
 
-## 🛠️ Skills & Badges
+##  Skills & Badges
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -34,18 +34,18 @@ mrhackerbilly123 = {
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description |
 |---|---|
-| 🔍 [Port Scanner](https://github.com/mrhackerbilly123/Network-scanner) | Scan common ports and detect services |
-| 🔒 [Password Hasher](https://github.com/mrhackerbilly123/Hashing.py) | Hash passwords with salt using SHA-512 |
-| 💥 [4-Digit Brute Force](https://github.com/mrhackerbilly123/4-Digit-brute-force) | Simulate password cracking for learning |
-| 🌐 [IP Geolocation Reporter](https://github.com/mrhackerbilly123/Webhook) | Fetch IP info and send JSON reports |
+|  [Port Scanner](https://github.com/mrhackerbilly123/Network-scanner) | Scan common ports and detect services |
+|  [Password Hasher](https://github.com/mrhackerbilly123/Hashing.py) | Hash passwords with salt using SHA-512 |
+|  [4-Digit Brute Force](https://github.com/mrhackerbilly123/4-Digit-brute-force) | Simulate password cracking for learning |
+|  [IP Geolocation Reporter](https://github.com/mrhackerbilly123/Webhook) | Fetch IP info and send JSON reports |
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
@@ -55,7 +55,7 @@ mrhackerbilly123 = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -66,15 +66,15 @@ mrhackerbilly123 = {
 ---
 
 
-## ⚡ Fun Facts
+##  Fun Facts
 
-- 🕵️ I enjoy exploring cybersecurity challenges and building Python tools
-- 🧠 Currently learning ethical hacking through self-taught methods
-- 🔐 Passionate about understanding how systems can be secured (and broken)
+-  I enjoy exploring cybersecurity challenges and building Python tools
+-  Currently learning ethical hacking through self-taught methods
+-  Passionate about understanding how systems can be secured (and broken)
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 <div align="center">
 
