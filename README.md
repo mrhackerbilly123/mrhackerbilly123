@@ -28,10 +28,10 @@ mrhackerbilly123 = {
 ---
 ## 🎓 Certifications
 <div align="center">
-<img src="./certs/cisco-intro-to-cybersecurity.png" alt="Cisco Introduction to Cybersecurity Certificate" width="700"/>
+
 </div>
 
-- ✅ **Cisco Networking Academy** — Introduction to Cybersecurity (Issued Jul 2026)
+ **Cisco Networking Academy** — Introduction to Cybersecurity (Issued Jul 2026)
 ---
 ## Projects
 | Project | Description |
