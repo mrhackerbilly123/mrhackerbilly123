@@ -13,7 +13,7 @@
 mrhackerbilly123 = {
     "degree":    "Bachelor of Computer Science @ UOA", (Studying towards),
     "focus":     "Cybersecurity | Python | Bash | Networking",
-    "learning":  ["SOC Fundamentals", "CompTIA Security+"],
+    "learning":  ["SOC Fundamentals", "Cisco Ethical Hacking Course+"],
     "interests": ["Python Tooling", "Linux"],
 }
 ```
