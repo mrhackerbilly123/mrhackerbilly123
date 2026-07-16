@@ -26,7 +26,7 @@ mrhackerbilly123 = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ---
-## 🎓 Certifications
+## Certifications
 <div align="center">
 
 </div>
