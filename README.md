@@ -28,6 +28,7 @@ mrhackerbilly123 = {
 ---
 ## Certifications
 <div align="center">
+<img width="600" height="600" alt="introduction-to-iot" src="https://github.com/user-attachments/assets/617a1575-0d2b-44c1-b78a-37a2dda8d1f3" />
 
 </div>
 
