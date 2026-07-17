@@ -1,4 +1,3 @@
-<img width="600" height="600" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/a50e5ec9-ec1e-48fc-ac81-8e1af3896d76" />
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6f3d,50:14532d,70:1f6f3d,100:0d1117&height=200&section=header&text=mrhackerbilly123&fontSize=50&fontColor=1f6f3d&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Cybersecurity%20%7C%20Python&descAlignY=58&descColor=1f6f3d" />
   <a href="https://git.io/typing-svg">
