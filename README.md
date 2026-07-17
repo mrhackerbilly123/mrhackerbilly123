@@ -32,6 +32,7 @@ mrhackerbilly123 = {
 </div>
 
  **Cisco Networking Academy** — Introduction to Cybersecurity (Issued Jul 2026)
+ **Cisco Networking Academy** — Introduction to IoT (Issued Jul 2026)
 ---
 ## Projects
 | Project | Description |
