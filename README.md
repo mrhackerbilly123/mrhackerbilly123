@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6f3d,50:14532d,70:1f6f3d,100:0d1117&height=200&section=header&text=mrhackerbilly123&fontSize=50&fontColor=1f6f3d&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Cybersecurity%20%7C%20Python&descAlignY=58&descColor=1f6f3d" />
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=whoami%20=%20mrhackerbilly123!%20%F0%9F%91%8B;CS%20Student%20%40%20UOA;Cybersecurity%20%26%20Python" alt="Typing SVG" />
+
 </a>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=mrhackerbilly123&label=Profile+Views&color=00ff41&style=for-the-badge" />
@@ -29,8 +29,8 @@ mrhackerbilly123 = {
 ---
 ## Certifications
 <div align="center">
-<img width="100" height="100" alt="introduction-to-iot" src="https://github.com/user-attachments/assets/617a1575-0d2b-44c1-b78a-37a2dda8d1f3" />
-<img width="100" height="100" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/891eac81-1ff1-4c63-ba5d-cde825d7f4ae" />
+<img width="200" height="200" alt="introduction-to-iot" src="https://github.com/user-attachments/assets/617a1575-0d2b-44c1-b78a-37a2dda8d1f3" />
+<img width="200" height="200" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/891eac81-1ff1-4c63-ba5d-cde825d7f4ae" />
 
 
 </div>
